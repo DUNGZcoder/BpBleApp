@@ -1,0 +1,4 @@
+C:/Users/pc/BpBleApp/android/app/.cxx/RelWithDebInfo/4h2q6ppj/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+C:/Users/pc/BpBleApp/android/app/.cxx/RelWithDebInfo/4h2q6ppj/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+C:/Users/pc/BpBleApp/android/app/.cxx/RelWithDebInfo/4h2q6ppj/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+C:/Users/pc/BpBleApp/android/app/.cxx/RelWithDebInfo/4h2q6ppj/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- USB CDC (Communication Device Class) -->
+    <usb-device
+        class="2"
+        subclass="2"
+        protocol="1" />
+</resources>

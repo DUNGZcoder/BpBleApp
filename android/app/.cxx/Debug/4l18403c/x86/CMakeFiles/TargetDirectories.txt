@@ -1,0 +1,9 @@
+C:/Users/pc/BpBleApp/android/app/.cxx/Debug/4l18403c/x86/CMakeFiles/appmodules.dir
+C:/Users/pc/BpBleApp/android/app/.cxx/Debug/4l18403c/x86/CMakeFiles/edit_cache.dir
+C:/Users/pc/BpBleApp/android/app/.cxx/Debug/4l18403c/x86/CMakeFiles/rebuild_cache.dir
+C:/Users/pc/BpBleApp/android/app/.cxx/Debug/4l18403c/x86/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+C:/Users/pc/BpBleApp/android/app/.cxx/Debug/4l18403c/x86/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+C:/Users/pc/BpBleApp/android/app/.cxx/Debug/4l18403c/x86/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
+C:/Users/pc/BpBleApp/android/app/.cxx/Debug/4l18403c/x86/rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir
+C:/Users/pc/BpBleApp/android/app/.cxx/Debug/4l18403c/x86/rnsvg_autolinked_build/CMakeFiles/edit_cache.dir
+C:/Users/pc/BpBleApp/android/app/.cxx/Debug/4l18403c/x86/rnsvg_autolinked_build/CMakeFiles/rebuild_cache.dir

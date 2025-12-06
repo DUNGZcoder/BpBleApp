@@ -1,0 +1,16 @@
+{
+  "extends": "@react-native/typescript-config",
+  "compilerOptions": {
+    "strict": false,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "target": "esnext"
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.d.ts", // ⬅ thêm dòng này
+    "react-native-serialport.d.ts" // (tuỳ, có thể bỏ nếu đã có dòng trên)
+  ],
+  "exclude": ["node_modules", "Pods"]
+}
